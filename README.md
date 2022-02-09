@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Dependencias para el Proyecto
+
+npm i axios
+
+### API'S UTILIZADAS
+
+Letra de la cancion: ==> https://lyrics.ovh/ <==
+
 ## Available Scripts
 
 In the project directory, you can run:
