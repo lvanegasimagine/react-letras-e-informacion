@@ -9,6 +9,7 @@ npm i axios
 ### API'S UTILIZADAS
 
 Letra de la cancion: ==> https://lyrics.ovh/ <==
+Informacion del Artista: ==> https://theaudiodb.com/api_guide.php <==
 
 ## Available Scripts
 
